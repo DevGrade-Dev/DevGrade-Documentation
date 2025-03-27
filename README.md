@@ -1,5 +1,3 @@
-# DevGrade Documentation
-
 ## 1. Introduction
 ### What is DevGrade?
 DevGrade is an advanced, fully automated platform designed to evaluate developers in real-world project environments. It offers an intelligent grading system that evaluates candidate performance based on the code they submit for an assessment. This is done by leveraging project templates, automatic test execution, and continuous feedback.
